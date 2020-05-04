@@ -1,0 +1,2 @@
+# ftp.talkingkotlin.com
+Takeover
